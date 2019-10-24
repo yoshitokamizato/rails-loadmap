@@ -22,3 +22,9 @@ Ruby/Railsに関するロードマップは以下の通りです。
 9. [逆転教材](https://arcane-gorge-21903.herokuapp.com)
 10. [Railsチュートリアル](https://railstutorial.jp/)
 11. [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp)
+
+合間に読むといいもの
+
+1. [コンピュータはなぜ動くのか～知っておきたいハードウエア＆ソフトウエアの基礎知識～](https://amzn.to/2Pe4Jzq)
+2. [イラスト図解式 この一冊で全部わかるWeb技術の基本](https://amzn.to/2qziDSj)
+3. [リーダブルコード ―より良いコードを書くためのシンプルで実践的なテクニック (Theory in practice)](https://amzn.to/2oiMePi)
