@@ -11,6 +11,8 @@ Ruby/Railsに関するロードマップは以下の通りです。
 
 実際にやってみて、20分ほど調べてもわからない点はぜひご質問ください。
 
+## Ruby/Railsの学習
+
 1. [Progate（Ruby）](https://prog-8.com/)
 2. [ドットインストール（Ruby）](https://dotinstall.com/)
 3. [スラスラ読める Rubyふりがなプログラミング](https://amzn.to/32zDDXh)
@@ -24,7 +26,7 @@ Ruby/Railsに関するロードマップは以下の通りです。
 11. [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp)
 12. [Take off Rails](https://freelance.cat-algorithm.com/membership-join/)
 
-合間に読むといいもの
+## 合間に読むといいもの
 
 1. [コンピュータはなぜ動くのか～知っておきたいハードウエア＆ソフトウエアの基礎知識～](https://amzn.to/2Pe4Jzq)
 2. [イラスト図解式 この一冊で全部わかるWeb技術の基本](https://amzn.to/2qziDSj)
