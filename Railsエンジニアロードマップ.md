@@ -21,3 +21,4 @@ Ruby/Railsに関するロードマップは以下の通りです。
 8. [「現場で使える Ruby on Rails 5速習実践ガイド」](https://amzn.to/2WaeAHM)
 9. [逆転教材](https://arcane-gorge-21903.herokuapp.com)
 10. [Railsチュートリアル](https://railstutorial.jp/)
+11. [Everyday Rails - RSpecによるRailsテスト入門](https://leanpub.com/everydayrailsrspec-jp)
